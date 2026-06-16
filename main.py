@@ -63,8 +63,8 @@ color_liste = [
 
 #  PARAMÈTRES
 PATHS = [
-    r"C:\\Users\\Kimi\\Documents\\Education\\L3EEEA\\STAGE\\Pour_Arthur\\Prostate4\\A9_x1.25_z0.tif",
-    r"C:\\Users\\Kimi\\Documents\\Education\\L3EEEA\\STAGE\\Pour_Arthur\\Prostate4\\A10_x1.25_z0.tif",
+    r"",
+    r"",
 ]
 
 TOP_N_LIST = [1, 1]

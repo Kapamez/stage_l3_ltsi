@@ -44,8 +44,8 @@ import cv2
 
 #  PARAMÈTRES
 PATHS = [
-    r"C:\\Users\\Gustave\\Documents\\Education\\L3_EEEA\\Stage\\Pour_Arthur\\Prostate8\\A8_x1.25_z0.tif",
-    r"C:\\Users\\Gustave\\Documents\\Education\\L3_EEEA\\Stage\\Pour_Arthur\\Prostate8\\A9_x1.25_z0.tif",
+    r"",
+    r"",
 ]
 
 

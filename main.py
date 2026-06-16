@@ -69,7 +69,7 @@ PATHS = [
 
 TOP_N_LIST = [1, 1]
 
-FLIP = [0, 1]
+FLIP = [0, 0]
 
 # Pour Prostate 4 A10 -> FLIP = 1
 # Pour Prostate 4 A7 -> TOP_N_LIST = 2
